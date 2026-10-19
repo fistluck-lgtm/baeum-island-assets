@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "models": {
+    "tree_fruit": { "file": "models/tree_fruit.glb", "credit": "\"Low Poly Apple Tree\" by 작가이름 (CC BY 4.0) https://sketchfab.com/..." },
+    "player_cat": { "file": "models/player_cat.glb", "rotY": 180, "credit": "\"Cute Cat\" by 작가이름 (CC BY 4.0)" },
+    "house":      { "file": "models/house.glb", "scale": 1.1, "credit": "\"Cozy Cottage\" by 작가이름 (CC0)" }
+  }
+}
