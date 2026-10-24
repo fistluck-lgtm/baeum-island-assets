@@ -1,16 +1,18 @@
 # 슬롯 목록
 
-## 현재 채운 슬롯 (2026-10-19)
+## 현재 채운 슬롯 (2026-10-21)
 
-✅ 채움 (31개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(2종) · `board` · `bridge` · `fountain` · `lighthouse` · 가구 10종 전부
+✅ 채움 (39개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(같은 집 6가지 색: 노랑·하늘·분홍·민트·빨강·보라 → 모둠원 집마다 다른 색) · `board` · `bridge` · `fountain` · `lighthouse` · `npc_otter`(달수) · `npc_penguin`(펭이, 손 흔들기 동작) · 가구 10종 + 선물 가구 `furn_dino`·`furn_balloon`
 
-⬜ 아직 기본 모델: `player_*` 동물 주민 6종 · `npc_sheep` · `npc_otter` · `npc_penguin` · `shop` · `stage`
+⬜ 아직 기본 모델: `player_*` 동물 주민 6종 · `npc_sheep` · `shop` · `stage`
+
+- `npc_sheep`: *Sheep animation lowpoly*는 사실적인 회색 양이라 섬의 귀여운 분위기와 맞지 않아 기본 몽실이를 그대로 썼어요. 하얗고 동글동글한 *cute sheep chibi*를 추천해요.
 
 - `shop`: 올려 주신 *Low poly generic shop*은 **Sketchfab Standard 라이선스**라 공개 저장소에 올릴 수 없어요. CC0/CC BY 상점 모델을 찾아 주세요.
 - `stage`: *Wooden Stage with Bleacher style Seating Benches*는 Sketchfab Standard 라이선스라 쓸 수 없어요. CC0/CC BY의 *wooden stage*, *festival stage*를 찾아 주세요.
 - `shop`: *Shop (MRX)*은 회색 콘크리트 건물이라 기본 상점을 그대로 썼어요. 파스텔 톤 *market stall*, *cute shop*을 추천해요.
 - 같은 슬롯에 여러 모델을 넣으려면 manifest에서 `"variants": [ {...}, {...} ]` 로 적으면 섬 곳곳에 섞여서 나와요.
-- 모델 안의 열매를 흔들기 표시로 쓰려면 `"fruitNodes": "^Sphere"`처럼 열매 부분 이름을 적어요.
+- 모델 안의 열매를 흔들기 표시로 쓰려면 `"fruitNodes": "^Fruits"`처럼 열매 부분 이름을 적어요.
 
 `models/슬롯이름.glb` 로 올리고 `manifest.json`에 같은 슬롯 이름으로 적으면 됩니다.
 추천 검색어는 스케치팹에서 영어로 검색할 때 쓰세요. (`low poly` 를 붙이면 가볍고 귀여운 모델이 잘 나와요)
@@ -58,3 +60,17 @@
 - 너무 사실적인 모델보다 둥글고 파스텔 톤인 모델이 배움섬 분위기에 맞아요.
 - 땅·바다·강은 게임이 직접 그려서 따로 모델이 필요 없어요.
 - 특정 게임·만화 캐릭터(예: 닌텐도 캐릭터)를 그대로 따라 만든 팬아트 모델은 저작권 문제가 있을 수 있으니 피해 주세요.
+
+## 새로 생긴 슬롯 (공사 6~8단계 · 선물 가구)
+
+| 슬롯 | 쓰이는 곳 | 추천 검색어 |
+|---|---|---|
+| `playground` | 6단계 놀이터 | `playground low poly`, `kids playground stylized` |
+| `greenhouse` | 7단계 온실 | `greenhouse low poly`, `glass greenhouse stylized` |
+| `observatory` | 8단계 천문대 | `observatory low poly`, `telescope tower stylized` |
+| `furn_fishstatue` | 물고기 도감 완성 선물 | `fish statue gold low poly`, `fish trophy` |
+| `furn_bugframe` | 곤충 도감 완성 선물 | `insect frame`, `butterfly display case` |
+| `furn_dino` | 화석 도감 완성 선물 | `dinosaur skeleton low poly`, `fossil skeleton cartoon` |
+| `furn_balloon` | 학급 축제 선물 | `balloons low poly`, `balloon bunch` |
+
+모델이 없으면 게임 안 기본 모델로 보여요.

@@ -1,150 +1,182 @@
 {
- "version": 2,
- "models": {
-  "tree_fruit": {
-   "variants": [
-    {
-     "file": "models/tree_fruit_a.glb",
-     "credit": "\"Arbol Manzano - apple tree Lowpoly\" by Harold.Llanos (CC BY 4.0) https://sketchfab.com/3d-models/arbol-manzano-apple-tree-lowpoly-b13449cdcaf04358bcf7d5fe068e46f7 — 수정: 필요한 부분만 사용, 용량 최적화",
-     "fruitNodes": "^Sphere"
+  "version": 4,
+  "models": {
+    "tree_fruit": {
+      "variants": [
+        {
+          "file": "models/tree_fruit_a.glb",
+          "credit": "\"Arbol Manzano - apple tree Lowpoly\" by Harold.Llanos (CC BY 4.0) https://sketchfab.com/3d-models/arbol-manzano-apple-tree-lowpoly-b13449cdcaf04358bcf7d5fe068e46f7 — 수정: 필요한 부분만 사용, 용량 최적화",
+          "fruitNodes": "^Fruits"
+        },
+        {
+          "file": "models/tree_fruit_c.glb",
+          "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+        }
+      ]
     },
-    {
-     "file": "models/tree_fruit_c.glb",
-     "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+    "tree_pine": {
+      "variants": [
+        {
+          "file": "models/tree_pine_a.glb",
+          "credit": "\"Low Poly pine tree\" by eucalyp555 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-pine-tree-c1d140fc15bd40928989d0ca79365e13 — 수정: 용량 최적화"
+        },
+        {
+          "file": "models/tree_pine_b.glb",
+          "credit": "\"Pine Tree Low Poly\" by jakub.tatar4 (CC BY 4.0) https://sketchfab.com/3d-models/pine-tree-low-poly-ed92aaa97a2140e688603685ce778d57 — 수정: 용량 최적화"
+        },
+        {
+          "file": "models/tree_pine_c.glb",
+          "credit": "\"Low Poly Pine\" by Afloat Above the World (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-pine-107e3eab9dcb4e29a282c6709178752f — 수정: 용량 최적화"
+        },
+        {
+          "file": "models/tree_pine_d.glb",
+          "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+        },
+        {
+          "file": "models/tree_pine_e.glb",
+          "credit": "\"Pine Tree - Proto Series - Free\" by BitGem (CC BY 4.0) https://sketchfab.com/3d-models/pine-tree-proto-series-free-08014e92a59244c992884091218230b8 — 수정: 용량 최적화"
+        }
+      ]
+    },
+    "tree_palm": {
+      "file": "models/tree_palm.glb",
+      "credit": "\"Low poly palm tree with coconuts (Separately)\" by Anna Vidal (Milaein) (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-palm-tree-with-coconuts-separately-32a7255a308e46cfbdabeb996405ba47 — 수정: 용량 최적화"
+    },
+    "rock": {
+      "variants": [
+        {
+          "file": "models/rock_a.glb",
+          "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+        },
+        {
+          "file": "models/rock_b.glb",
+          "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+        }
+      ]
+    },
+    "bush": {
+      "file": "models/bush_a.glb",
+      "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
+    },
+    "house": {
+      "variants": [
+        {
+          "file": "models/house_a.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 용량 최적화"
+        },
+        {
+          "file": "models/house_c.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 색상 변경(하늘), 용량 최적화"
+        },
+        {
+          "file": "models/house_e.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 색상 변경(분홍), 용량 최적화"
+        },
+        {
+          "file": "models/house_f.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 색상 변경(민트), 용량 최적화"
+        },
+        {
+          "file": "models/house_b.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 색상 변경(빨강), 용량 최적화"
+        },
+        {
+          "file": "models/house_d.glb",
+          "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 색상 변경(보라), 용량 최적화"
+        }
+      ]
+    },
+    "board": {
+      "file": "models/board.glb",
+      "credit": "\"Message board\" by Weltor (CC BY 4.0) https://sketchfab.com/3d-models/message-board-98f09c8c8fd04ae5aa10271b5210f86c — 수정: 용량 최적화"
+    },
+    "bridge": {
+      "file": "models/bridge.glb",
+      "credit": "\"Wooden Bridge\" by Jordan Burckhardt (CC BY 4.0) https://sketchfab.com/3d-models/wooden-bridge-93cccbeb985043efabedb596cdf2aca8 — 수정: 용량 최적화"
+    },
+    "fountain": {
+      "file": "models/fountain.glb",
+      "credit": "\"Fountain\" by Dev_br5 (CC BY 4.0) https://sketchfab.com/3d-models/fountain-fe6940db32df448ea96b607c4bb2bbb2 — 수정: 용량 최적화"
+    },
+    "furn_pot": {
+      "file": "models/furn_pot.glb",
+      "credit": "\"Potted Plant\" by negar (CC BY 4.0) https://sketchfab.com/3d-models/potted-plant-ab23a3bc8ea54f65b701cf0a7f13de44 — 수정: 용량 최적화"
+    },
+    "furn_mailbox": {
+      "file": "models/furn_mailbox.glb",
+      "credit": "\"Mailbox\" by Dominik Strasser (CC BY 4.0) https://sketchfab.com/3d-models/mailbox-08db649b85544ebea2dc5a6264b3efcc — 수정: 필요한 부분만 사용, 용량 최적화"
+    },
+    "furn_bench": {
+      "file": "models/furn_bench.glb",
+      "credit": "\"Park Bench\" by aminzafar (CC BY 4.0) https://sketchfab.com/3d-models/park-bench-c4c88303c1834af29b8e906871b454ca — 수정: 용량 최적화"
+    },
+    "furn_mat": {
+      "file": "models/furn_mat.glb",
+      "credit": "\"low_poly_picnic_asset_pack\" by ap-school (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-picnic-asset-pack-9c4d076bb917478e955d9a6dddea7e43 — 수정: 용량 최적화"
+    },
+    "furn_lamp": {
+      "file": "models/furn_lamp.glb",
+      "credit": "\"street lamp\" by noortjeschuur (CC BY 4.0) https://sketchfab.com/3d-models/street-lamp-aae1b44fe3964a5fbb869b2a9580d9e9 — 수정: 용량 최적화"
+    },
+    "furn_parasol": {
+      "file": "models/furn_parasol.glb",
+      "credit": "\"Beach Scene\" by lewis_drummerr (CC BY 4.0) https://sketchfab.com/3d-models/beach-scene-9e8908ceb2074ced9c1050be9b07811a — 수정: 필요한 부분만 사용, 용량 최적화"
+    },
+    "furn_campfire": {
+      "file": "models/furn_campfire.glb",
+      "credit": "\"Low Poly Campfire\" by MrE_Sauce (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-campfire-695c62069ac44614acbfc6effcf7499d — 수정: 용량 최적화"
+    },
+    "furn_arch": {
+      "file": "models/furn_arch.glb",
+      "credit": "\"Virtual Arch\" by chad (CC BY 4.0) https://sketchfab.com/3d-models/virtual-arch-d8f95ff49b5a46878e636417b7d57175 — 수정: 용량 최적화"
+    },
+    "furn_swing": {
+      "file": "models/furn_swing.glb",
+      "credit": "\"Swing\" by Kroko.blend (CC BY 4.0) https://sketchfab.com/3d-models/swing-5922417d923e495c9ac32d5073f227e3 — 수정: 용량 최적화"
+    },
+    "furn_windmill": {
+      "file": "models/furn_windmill.glb",
+      "credit": "\"Stylized Windmill\" by egeyazici (CC BY 4.0) https://sketchfab.com/3d-models/stylized-windmill-94c30ef532ee4d37993ac5d9793bf20d — 수정: 필요한 부분만 사용, 용량 최적화"
+    },
+    "flower": {
+      "variants": [
+        {
+          "file": "models/flower_a.glb",
+          "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
+        },
+        {
+          "file": "models/flower_b.glb",
+          "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
+        },
+        {
+          "file": "models/flower_c.glb",
+          "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
+        },
+        {
+          "file": "models/flower_d.glb",
+          "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
+        }
+      ]
+    },
+    "lighthouse": {
+      "file": "models/lighthouse.glb",
+      "credit": "\"Lighthouse, Low Poly\" by FLAREMEDIA (CC BY 4.0) https://sketchfab.com/3d-models/lighthouse-low-poly-8cbfa6920c8e45a9a9abf37adb74dbf8 — 수정: 용량 최적화"
+    },
+    "npc_penguin": {
+      "file": "models/npc_penguin.glb",
+      "credit": "\"Manchot The Penguin\" by A308 Digital (CC BY 4.0) https://sketchfab.com/3d-models/manchot-the-penguin-9d388e4c095a4c12b690b33a680b599a — 수정: 텍스처 축소"
+    },
+    "npc_otter": {
+      "file": "models/npc_otter.glb",
+      "credit": "\"Cute Otter\" by Saskia (CC BY 4.0) https://sketchfab.com/3d-models/cute-otter-bc2c6cf221bf4d1c99c78c07f9d84780 — 수정: 폴리곤 단순화"
+    },
+    "furn_dino": {
+      "file": "models/furn_dino.glb",
+      "credit": "\"Nessie Skeleton Apex\" by Dylan Spin (CC BY 4.0) https://sketchfab.com/3d-models/nessie-skeleton-apex-f8ea6108fc584d36ada477aa63025f52 — 수정: 폴리곤 단순화"
+    },
+    "furn_balloon": {
+      "file": "models/furn_balloon.glb",
+      "credit": "\"Balloon Bunch\" by abdillaamy (CC BY 4.0) https://sketchfab.com/3d-models/balloon-bunch-44b6b58dd67b4f379c1484fa7fe46d99 — 수정: 풍선 다발 1개만 사용, 단순화"
     }
-   ]
-  },
-  "tree_pine": {
-   "variants": [
-    {
-     "file": "models/tree_pine_a.glb",
-     "credit": "\"Low Poly pine tree\" by eucalyp555 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-pine-tree-c1d140fc15bd40928989d0ca79365e13 — 수정: 용량 최적화"
-    },
-    {
-     "file": "models/tree_pine_b.glb",
-     "credit": "\"Pine Tree Low Poly\" by jakub.tatar4 (CC BY 4.0) https://sketchfab.com/3d-models/pine-tree-low-poly-ed92aaa97a2140e688603685ce778d57 — 수정: 용량 최적화"
-    },
-    {
-     "file": "models/tree_pine_c.glb",
-     "credit": "\"Low Poly Pine\" by Afloat Above the World (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-pine-107e3eab9dcb4e29a282c6709178752f — 수정: 용량 최적화"
-    },
-    {
-     "file": "models/tree_pine_d.glb",
-     "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
-    },
-    {
-     "file": "models/tree_pine_e.glb",
-     "credit": "\"Pine Tree - Proto Series - Free\" by BitGem (CC BY 4.0) https://sketchfab.com/3d-models/pine-tree-proto-series-free-08014e92a59244c992884091218230b8 — 수정: 용량 최적화"
-    }
-   ]
-  },
-  "tree_palm": {
-   "file": "models/tree_palm.glb",
-   "credit": "\"Low poly palm tree with coconuts (Separately)\" by Anna Vidal (Milaein) (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-palm-tree-with-coconuts-separately-32a7255a308e46cfbdabeb996405ba47 — 수정: 용량 최적화"
-  },
-  "rock": {
-   "variants": [
-    {
-     "file": "models/rock_a.glb",
-     "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
-    },
-    {
-     "file": "models/rock_b.glb",
-     "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
-    }
-   ]
-  },
-  "bush": {
-   "file": "models/bush_a.glb",
-   "credit": "\"Low Poly Trees Grass and Rocks\" by olehlila (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-trees-grass-and-rocks-4e0463f5df36420bb53079f9de35e81f — 수정: 필요한 부분만 사용, 용량 최적화"
-  },
-  "house": {
-   "variants": [
-    {
-     "file": "models/house_a.glb",
-     "credit": "\"Low Poly Toon House for Games & Animation\" by adnanpk786 (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-toon-house-for-games-animation-e8f077107ce148f9946e4f371777751c — 수정: 용량 최적화"
-    },
-    {
-     "file": "models/house_b.glb",
-     "credit": "\"Cute Low Poly House\" by lucionthego (CC BY 4.0) https://sketchfab.com/3d-models/cute-low-poly-house-ebb0d8f7330446f385eb8797d782c26e — 수정: 필요한 부분만 사용, 용량 최적화"
-    }
-   ]
-  },
-  "board": {
-   "file": "models/board.glb",
-   "credit": "\"Message board\" by Weltor (CC BY 4.0) https://sketchfab.com/3d-models/message-board-98f09c8c8fd04ae5aa10271b5210f86c — 수정: 용량 최적화"
-  },
-  "bridge": {
-   "file": "models/bridge.glb",
-   "credit": "\"Wooden Bridge\" by Jordan Burckhardt (CC BY 4.0) https://sketchfab.com/3d-models/wooden-bridge-93cccbeb985043efabedb596cdf2aca8 — 수정: 용량 최적화"
-  },
-  "fountain": {
-   "file": "models/fountain.glb",
-   "credit": "\"Fountain\" by Dev_br5 (CC BY 4.0) https://sketchfab.com/3d-models/fountain-fe6940db32df448ea96b607c4bb2bbb2 — 수정: 용량 최적화"
-  },
-  "furn_pot": {
-   "file": "models/furn_pot.glb",
-   "credit": "\"Potted Plant\" by negar (CC BY 4.0) https://sketchfab.com/3d-models/potted-plant-ab23a3bc8ea54f65b701cf0a7f13de44 — 수정: 용량 최적화"
-  },
-  "furn_mailbox": {
-   "file": "models/furn_mailbox.glb",
-   "credit": "\"Mailbox\" by Dominik Strasser (CC BY 4.0) https://sketchfab.com/3d-models/mailbox-08db649b85544ebea2dc5a6264b3efcc — 수정: 필요한 부분만 사용, 용량 최적화"
-  },
-  "furn_bench": {
-   "file": "models/furn_bench.glb",
-   "credit": "\"Park Bench\" by aminzafar (CC BY 4.0) https://sketchfab.com/3d-models/park-bench-c4c88303c1834af29b8e906871b454ca — 수정: 용량 최적화"
-  },
-  "furn_mat": {
-   "file": "models/furn_mat.glb",
-   "credit": "\"low_poly_picnic_asset_pack\" by ap-school (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-picnic-asset-pack-9c4d076bb917478e955d9a6dddea7e43 — 수정: 용량 최적화"
-  },
-  "furn_lamp": {
-   "file": "models/furn_lamp.glb",
-   "credit": "\"street lamp\" by noortjeschuur (CC BY 4.0) https://sketchfab.com/3d-models/street-lamp-aae1b44fe3964a5fbb869b2a9580d9e9 — 수정: 용량 최적화"
-  },
-  "furn_parasol": {
-   "file": "models/furn_parasol.glb",
-   "credit": "\"Beach Scene\" by lewis_drummerr (CC BY 4.0) https://sketchfab.com/3d-models/beach-scene-9e8908ceb2074ced9c1050be9b07811a — 수정: 필요한 부분만 사용, 용량 최적화"
-  },
-  "furn_campfire": {
-   "file": "models/furn_campfire.glb",
-   "credit": "\"Low Poly Campfire\" by MrE_Sauce (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-campfire-695c62069ac44614acbfc6effcf7499d — 수정: 용량 최적화"
-  },
-  "furn_arch": {
-   "file": "models/furn_arch.glb",
-   "credit": "\"Virtual Arch\" by chad (CC BY 4.0) https://sketchfab.com/3d-models/virtual-arch-d8f95ff49b5a46878e636417b7d57175 — 수정: 용량 최적화"
-  },
-  "furn_swing": {
-   "file": "models/furn_swing.glb",
-   "credit": "\"Swing\" by Kroko.blend (CC BY 4.0) https://sketchfab.com/3d-models/swing-5922417d923e495c9ac32d5073f227e3 — 수정: 용량 최적화"
-  },
-  "furn_windmill": {
-   "file": "models/furn_windmill.glb",
-   "credit": "\"Stylized Windmill\" by egeyazici (CC BY 4.0) https://sketchfab.com/3d-models/stylized-windmill-94c30ef532ee4d37993ac5d9793bf20d — 수정: 필요한 부분만 사용, 용량 최적화"
-  },
-  "flower": {
-   "variants": [
-    {
-     "file": "models/flower_a.glb",
-     "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
-    },
-    {
-     "file": "models/flower_b.glb",
-     "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
-    },
-    {
-     "file": "models/flower_c.glb",
-     "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
-    },
-    {
-     "file": "models/flower_d.glb",
-     "credit": "\"Low Poly nature pack\" by MiliaevaN (CC BY 4.0) https://sketchfab.com/3d-models/low-poly-nature-pack-82a26d32a99d44948ad90ad1718ab87b — 수정: 필요한 부분만 사용, 용량 최적화"
-    }
-   ]
-  },
-  "lighthouse": {
-   "file": "models/lighthouse.glb",
-   "credit": "\"Lighthouse, Low Poly\" by FLAREMEDIA (CC BY 4.0) https://sketchfab.com/3d-models/lighthouse-low-poly-8cbfa6920c8e45a9a9abf37adb74dbf8 — 수정: 용량 최적화"
   }
- }
 }
