@@ -1,10 +1,10 @@
 # 슬롯 목록
 
-## 현재 채운 슬롯 (2026-10-21)
+## 현재 채운 슬롯 (2026-11-05)
 
-✅ 채움 (39개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(같은 집 6가지 색: 노랑·하늘·분홍·민트·빨강·보라 → 모둠원 집마다 다른 색) · `board` · `bridge` · `fountain` · `lighthouse` · `npc_otter`(달수) · `npc_penguin`(펭이, 손 흔들기 동작) · 가구 10종 + 선물 가구 `furn_dino`·`furn_balloon`
+✅ 채움 (39개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(같은 집 6가지 색: 노랑·하늘·분홍·민트·빨강·보라 → 모둠원 집마다 다른 색) · `board` · `bridge` · `fountain` · `lighthouse` · `npc_otter`(달수) · `npc_penguin`(펭이, 손 흔들기 동작) · 가구 10종 + 선물 가구 `furn_dino`·`furn_balloon` + 집 안 가구 15종(`furn_i*`, Kenney Furniture Kit CC0)
 
-⬜ 아직 기본 모델: `player_*` 동물 주민 6종 · `npc_sheep` · `shop` · `stage`
+⬜ 아직 기본 모델: `player_*` 동물 주민 7종 · `npc_sheep` · `shop` · `stage`
 
 - `npc_sheep`: *Sheep animation lowpoly*는 사실적인 회색 양이라 섬의 귀여운 분위기와 맞지 않아 기본 몽실이를 그대로 썼어요. 하얗고 동글동글한 *cute sheep chibi*를 추천해요.
 
@@ -31,6 +31,7 @@
 | ⭐ | `player_bear` | 곰 주민 | 1.7m | cute bear character |
 | ⭐ | `player_fox` | 여우 주민 | 1.7m | cute fox character |
 | ⭐ | `player_panda` | 판다 주민 | 1.7m | cute panda character |
+| ⭐ | `player_monkey` | 원숭이 주민 | 1.7m | cute monkey character low poly |
 |  | `npc_sheep` | 몽실이 (부탁 문제) | 1.8m | cute sheep low poly |
 |  | `npc_otter` | 달수 (상점) | 1.9m | cute otter / beaver character |
 |  | `npc_penguin` | 펭이 (복습 노트) | 2.0m | cute penguin low poly |
