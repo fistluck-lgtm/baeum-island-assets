@@ -2,7 +2,7 @@
 
 ## 현재 채운 슬롯 (2026-11-05)
 
-✅ 채움 (39개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(같은 집 6가지 색: 노랑·하늘·분홍·민트·빨강·보라 → 모둠원 집마다 다른 색) · `board` · `bridge` · `fountain` · `lighthouse` · `npc_otter`(달수) · `npc_penguin`(펭이, 손 흔들기 동작) · 가구 10종 + 선물 가구 `furn_dino`·`furn_balloon` + 집 안 가구 15종(`furn_i*`, Kenney Furniture Kit CC0)
+✅ 채움 (39개 파일): `tree_fruit`(2종) · `tree_pine`(5종) · `tree_palm` · `rock`(2종) · `bush` · `flower`(4종) · `house`(같은 집 6가지 색: 노랑·하늘·분홍·민트·빨강·보라 → 모둠원 집마다 다른 색) · `board` · `bridge` · `fountain` · `lighthouse` · `npc_otter`(달수) · `npc_penguin`(펭이, 손 흔들기 동작) · 가구 10종 + 선물 가구 `furn_dino`·`furn_balloon` + 집 안 가구 29종(`furn_i*`, Kenney Furniture Kit CC0 + 기본 모델)
 
 ⬜ 아직 기본 모델: `player_*` 동물 주민 7종 · `npc_sheep` · `shop` · `stage`
 

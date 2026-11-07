@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "models": {
     "tree_fruit": {
       "variants": [
@@ -237,6 +237,18 @@
     "furn_ipillow": {
       "file": "models/furn_ipillow.glb",
       "credit": "\"Furniture Kit\" (pillowBlue) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_imirror": {
+      "file": "models/furn_imirror.glb",
+      "credit": "\"Furniture Kit\" (bathroomMirror) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ibar": {
+      "file": "models/furn_ibar.glb",
+      "credit": "\"Furniture Kit\" (kitchenBar) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ibook2": {
+      "file": "models/furn_ibook2.glb",
+      "credit": "\"Furniture Kit\" (bookcaseClosedWide) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
     }
   }
 }
