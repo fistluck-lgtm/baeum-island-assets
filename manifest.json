@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "models": {
     "tree_fruit": {
       "variants": [
@@ -249,6 +249,91 @@
     "furn_ibook2": {
       "file": "models/furn_ibook2.glb",
       "credit": "\"Furniture Kit\" (bookcaseClosedWide) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_irug2": {
+      "file": "models/furn_irug2.glb",
+      "credit": "\"Furniture Kit\" (rugRectangle) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_iplant2": {
+      "file": "models/furn_iplant2.glb",
+      "credit": "\"Furniture Kit\" (plantSmall1) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_itrash": {
+      "file": "models/furn_itrash.glb",
+      "credit": "\"Furniture Kit\" (trashcan) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ibox": {
+      "file": "models/furn_ibox.glb",
+      "credit": "\"Furniture Kit\" (cardboardBoxOpen) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ilamp2": {
+      "file": "models/furn_ilamp2.glb",
+      "credit": "\"Furniture Kit\" (lampSquareTable) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_iside": {
+      "file": "models/furn_iside.glb",
+      "credit": "\"Furniture Kit\" (sideTableDrawers) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_icoffee": {
+      "file": "models/furn_icoffee.glb",
+      "credit": "\"Furniture Kit\" (tableCoffee) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_idining": {
+      "file": "models/furn_idining.glb",
+      "credit": "\"Furniture Kit\" (tableCross) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ilounge": {
+      "file": "models/furn_ilounge.glb",
+      "credit": "\"Furniture Kit\" (loungeChair) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_itvstand": {
+      "file": "models/furn_itvstand.glb",
+      "credit": "\"Furniture Kit\" (cabinetTelevision) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_icoat": {
+      "file": "models/furn_icoat.glb",
+      "credit": "\"Furniture Kit\" (coatRackStanding) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ispeaker": {
+      "file": "models/furn_ispeaker.glb",
+      "credit": "\"Furniture Kit\" (speaker) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ipc": {
+      "file": "models/furn_ipc.glb",
+      "credit": "\"Furniture Kit\" (computerScreen) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ibunk": {
+      "file": "models/furn_ibunk.glb",
+      "credit": "\"Furniture Kit\" (bedBunk) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_istove": {
+      "file": "models/furn_istove.glb",
+      "credit": "\"Furniture Kit\" (kitchenStove) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_isink": {
+      "file": "models/furn_isink.glb",
+      "credit": "\"Furniture Kit\" (kitchenSink) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_imicro": {
+      "file": "models/furn_imicro.glb",
+      "credit": "\"Furniture Kit\" (kitchenMicrowave) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_iwasher": {
+      "file": "models/furn_iwasher.glb",
+      "credit": "\"Furniture Kit\" (washer) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ibsink": {
+      "file": "models/furn_ibsink.glb",
+      "credit": "\"Furniture Kit\" (bathroomSink) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_ishower": {
+      "file": "models/furn_ishower.glb",
+      "credit": "\"Furniture Kit\" (shower) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화"
+    },
+    "furn_iwalllamp": {
+      "file": "models/furn_iwalllamp.glb",
+      "credit": "\"Furniture Kit\" (lampWall) by Kenney (CC0) https://kenney.nl/assets/furniture-kit — 수정: 용량 최적화",
+      "rotY": 180
     }
   }
 }
